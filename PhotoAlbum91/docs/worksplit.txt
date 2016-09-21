@@ -1,0 +1,14 @@
+Work Split Document for Photo Album Project
+Omar Khalil and Michelle Hwang (Team # 91)
+
+		Window						Team Member
+(1) Login Screen for User/Admin					Omar
+(2) Admin Screen						Omar
+(3) Add New User Screen						Omar
+(4) User Screen							Omar
+(5) Add New Album Screen					Michelle
+(6) Edit/Rename Selected Album Screen				Michelle
+(7) Album Screen						Michelle
+(8) Search Screen						Michelle
+
+(See storyboard for labeled diagrams and further details on each window)
